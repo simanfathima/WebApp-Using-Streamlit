@@ -1,7 +1,7 @@
 # Data Science WebApp using streamlit and python
 # Aim:
 
--Build interactive web applications with Streamlit and Python
+-Build interactive web applications with Streamlit and Python in just 100 lines
 
 -Use pandas for data manipulation in data science workflows
 # Tasks:
