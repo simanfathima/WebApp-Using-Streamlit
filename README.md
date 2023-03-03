@@ -1,4 +1,4 @@
-# Data Science WebApp using streamlit and python
+# WebApp using streamlit and python
 # Aim:
 
 -Build interactive web application with Streamlit and Python in just 100 lines
